@@ -1,0 +1,58 @@
+#Download the Index.html which comes with a starter
+
+<!-- Add a header element with the class flex and within it
+     -add a Div with h3 element Jane&John
+     -add nav element in the header element with it add
+      - an unordered element with the class flex and list ements with list items. 
+      Note content has been provided in note.txt captiond header
+-->
+
+#header
+h3 Jane&John
+li Home, About, contact
+
+
+ <!-- Add a section element and within it
+  Add a div with id welcome
+  -the div should contain an h1 element with the content in the note.txt file
+  Add a seperate Div with the element p and add the description froim the note.txt file with the caption jumbotron -->
+
+#jumbotron
+h1 Welcome Here 
+p We love Jane and Johns. Jane and John got missing some time ago and we must find them
+
+ <!-- Add a section element and within it
+  Add a div with id solution
+  -the div should contain an h3 element with the content in the note.txt file
+  Add a seperate Div with the element p and add the description froim the note.txt file with the caption content -->
+
+  #content
+  div>h3 The Problems and our solution Our solution
+  div>p
+   Suspendisse eu tellus et orci mollis sollicitudin. Vivamus convallis orci non massa finibus,
+             ut venenatis justo tempus. In ac fringilla sem. Morbi lectus tortor, vestibulum pharetra iaculis non,
+              rutrum a leo. Pellentesque et pharetra lorem. Nullam mollis lectus eget euismod commodo. Proin eu ex 
+              eu nisi sodales luctus sit amet et odio. Aliquam mollis dignissim sapien. Etiam pretium felis sit amet
+               sem pulvinar ultrices. Praesent id orci sem. Sed a mauris quis ex hendrerit vehicula. Aenean sodales 
+               placerat blandit. Cras fermentum, nisl et consequat vulputate, lorem risus posuere quam, in fermentum
+                magna sapien non purus. Pellentesque ipsum purus, auctor sit amet diam ut, luctus bibendum risus. 
+                Nullam elementum
+             maximus lectus, eget vulputate orci luctus ac. Sed pretium congue orci, quis consequat magna gravida at.
+
+   <!-- Create a section with a parent div with an Id call teams
+    within this Div, create another div with Id Member and class of flex-in
+    In the Member Div we need 3 different divs and foreach div add these elements
+    - An Image elements with the src=janedoe or src=johndoe
+    - An h3 with the name
+    - A p tag with the description --> all content are in the caption #Teams
+
+
+    #Teams
+    h3> Jane Doe
+    P>Jane is highly respected
+
+      <!-- Add a footer elemet and add an input element with a button  -->
+      #footer
+      button> Subscribe
+
+
